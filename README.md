@@ -5,4 +5,4 @@
 
 <br>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3kf7kysp8sge6k8coqere062i)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3kf7kysp8sge6k8coqere062i&width=100vw)
