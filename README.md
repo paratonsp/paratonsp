@@ -18,3 +18,5 @@
   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=paratonsp&theme=codeSTACKr&show_icons=true" />
   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paratonsp&theme=codeSTACKr&layout=compact" />
 
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=paratonsp&hide=prs,issues&theme=codeSTACKr"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paratonsp&layout=compact&theme=codeSTACKr"/>
