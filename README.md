@@ -6,8 +6,8 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3kf7kysp8sge6k8coqere062i&cover_image=false&theme=compact)](https://github.com/kittinan/spotify-github-profile) -->
 
 <a href="https://github.com/paratonsp">
-  <img width="59%" height="200em" src="https://github-readme-stats.vercel.app/api?username=paratonsp&theme=codeSTACKr"/>
-  <img width="39%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paratonsp&layout=compact&theme=codeSTACKr"/>
+  <img width="59%"  src="https://github-readme-stats.vercel.app/api?username=paratonsp&theme=codeSTACKr"/>
+  <img width="39%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=paratonsp&layout=compact&theme=codeSTACKr"/>
 </a>
 <br>
 <img align="center" height="180em" src="https://spotify-github-profile.vercel.app/api/view?uid=3kf7kysp8sge6k8coqere062i&cover_image=false&theme=compact"/>
