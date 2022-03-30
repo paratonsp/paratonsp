@@ -1,5 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=paratonsp&hide=issues,prs&theme=codeSTACKr" />
-<br>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=paratonsp&hide=issues,prs&theme=codeSTACKr" /> -->
+<!-- <br> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paratonsp&layout=compact&theme=codeSTACKr" />
 <br>
 
