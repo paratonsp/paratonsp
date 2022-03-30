@@ -15,6 +15,6 @@
 <br>
 
 <a href="https://github.com/paratonsp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paratonsp&theme=codeSTACKr&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paratonsp&theme=codeSTACKr&layout=compact" />
+  <img height="180em" width="55%" src="https://github-readme-stats.vercel.app/api?username=paratonsp&theme=codeSTACKr&show_icons=true" />
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paratonsp&theme=codeSTACKr&layout=compact" />
 </a>
