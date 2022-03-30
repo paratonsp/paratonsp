@@ -11,5 +11,5 @@
 </a>
 <br>
 <a href="https://github.com/paratonsp">
-  <img width="100%" height="180em" src="https://spotify-github-profile.vercel.app/api/view?uid=3kf7kysp8sge6k8coqere062i&cover_image=false&theme=compact" />
+  <img align="center" height="180em" src="https://spotify-github-profile.vercel.app/api/view?uid=3kf7kysp8sge6k8coqere062i&cover_image=false&theme=compact" />
 </a>
