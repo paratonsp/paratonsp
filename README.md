@@ -11,3 +11,10 @@
 </a>
 <br>
 <img align="center" height="180em" src="https://spotify-github-profile.vercel.app/api/view?uid=3kf7kysp8sge6k8coqere062i&cover_image=false&theme=compact"/>
+
+<br>
+
+<a href="https://github.com/paratonsp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paratonsp&theme=codeSTACKr&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paratonsp&theme=codeSTACKr&layout=compact" />
+</a>
