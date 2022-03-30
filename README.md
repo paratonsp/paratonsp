@@ -7,4 +7,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paratonsp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![paratonsp wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paratonsp)](https://github.com/anuraghazra/github-readme-stats)
+[![paratonsp wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paratonsp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
