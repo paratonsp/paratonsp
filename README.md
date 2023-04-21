@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div style="display: flex; flex-direction: row;">
- <div class="container">
+ <div class="col-6">
   <p>Thank You for taking the time to view my GitHub Profile</p>
   <p>🌱 I’m currently learning Flutter, Go</p>
   <p>📫 How to reach me: <a href="https://instagram.com/paratonsp/" target="blank">Instagram</a></p>
