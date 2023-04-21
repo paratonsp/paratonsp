@@ -6,7 +6,9 @@
   <p>🌱 I’m currently learning Flutter, Go</p>
   <p>📫 How to reach me: <a href="https://instagram.com/paratonsp/" target="blank">Instagram</a></p>
  </div>
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paratonsp&theme=radical&layout=compact" />
+ <div class="col-6">
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paratonsp&theme=radical&layout=compact" />
+ </div>
 </div>
 
 
