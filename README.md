@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="right">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paratonsp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img class="img" src="[https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=paratonsp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
 </div>
 Thank You for taking the time to view my GitHub Profile
 - 🌱 I’m currently learning Flutter, Go
